@@ -2,6 +2,8 @@
 
 A public version of my React Native COVID-19 news app. 
 
+Private keys are removed. CMS and GraphQL components are removed.
+
 ![](https://raw.githubusercontent.com/Architect1st/React-Native-COVID-19-News-APP/main/images%20and%20videos/1.png)
 
 ![](https://raw.githubusercontent.com/Architect1st/React-Native-COVID-19-News-APP/main/images%20and%20videos/2.png)
